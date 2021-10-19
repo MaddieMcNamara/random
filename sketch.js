@@ -10,7 +10,7 @@ function setup() {
 createCanvas(600, 600);
 background(200);
 
-console.log(dogs[0]);
+
 
 }
 
