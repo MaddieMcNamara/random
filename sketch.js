@@ -1,11 +1,15 @@
+
+let dogs = ["one", "two"];
 function setup() {
 
-let dogs = ["one", "two",]
-console.lod(dogs[0]);
+
+
 
 
 createCanvas(600, 600);
 background(200);
+
+console.log(dogs[0]);
 
 }
 
