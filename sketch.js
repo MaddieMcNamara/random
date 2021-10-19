@@ -1,5 +1,6 @@
 
-let dogs = ["one", "two"];
+
+
 function setup() {
 
 
